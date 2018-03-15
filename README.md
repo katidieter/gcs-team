@@ -4,11 +4,14 @@
 ## Step By Step Collaborator PUSH Configuration
 1. Instal Git on your machine.
 2. Check if your machine has Git.
+```html
+git --version
+```
 3. Go to https://github.com/LuisValgoi/gcs-team
 4. Fork the project throught the right-up-corner button.
 5. It will be generated an URL.
-6. Go to your preference Development Code folder.
-7. Clone this URL into your machine.
+6. Go to your preference Development Code Folder.
+7. Clone this URL into your machine (this folder).
 ```html
 git clone https://github.com/LuisValgoi/gcs-team.git
 ```
@@ -20,7 +23,7 @@ git push
 ```
 9. Go to https://github.com/LuisValgoi/gcs-team
 10. Click on right-up-corner Pull-Request button.
-11. Wait for the Repository's Admin, merge your changes.
+11. Wait for the Repository's Admin merge your changes.
 
 ## Step By Step Collaborator PULL Configuration
 1. After you've forked into your machine the original repository.

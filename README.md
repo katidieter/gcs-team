@@ -9,8 +9,15 @@
 5. It will be generated an URL.
 6. Go to your preference Development Code folder.
 7. Clone this URL into your machine.
-    - After cloned this, you will be able to do some changes.
+```html
+git clone https://github.com/LuisValgoi/gcs-team.git
+```
 8. After you finished your changes, stage it, commit it and push it.
+```html
+git add .
+git commit -am "message"
+git push
+```
 9. Go to https://github.com/LuisValgoi/gcs-team
 10. Click on right-up-corner Pull-Request button.
 11. Wait for the Repository's Admin, merge your changes.
